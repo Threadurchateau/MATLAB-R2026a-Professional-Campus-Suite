@@ -1,0 +1,23 @@
+{
+  "repo": "matlab-r2026a-professional-campus-suite",
+  "product": "MATLAB R2026a Professional Campus Suite",
+  "kind": "analytics",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new3",
+  "format": "license-md-toolix-v1",
+  "category": "analytics",
+  "topics": [
+    "matlab-r2026a",
+    "matrix-lab",
+    "live-scripts",
+    "toolboxes",
+    "campus-compute",
+    "matlab-setup-failed-fix",
+    "how-to-install-matlab",
+    "matlab-windows",
+    "matlab-desktop-2026",
+    "matlab-desktop-package"
+  ],
+  "site": "toolix.me"
+}
